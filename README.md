@@ -17,3 +17,7 @@ This repository serves as a central hub for all my data science work, notebooks,
 ### 3. Telcom Churn Predication Model
 * **Description:** Successfully leveraging a Weighted Logistic Regression model, we can now flag customers for intervention, maximizing retention efforts and protecting revenue.
 * **Link:** [Telcom Churn Prediction Model](https://github.com/beolawork-art/telcom-churn-prediction-model)
+
+### 4. Indicino Employee Attrition Predictive Analysis
+* **Description:** focuses on identifying the root causes of employee attrition at Indicino and building a predictive model to flag employees at high risk of leaving. The goal is to provide the HR Group Head with actionable, data-backed recommendations to reduce the overall turnover rate of 16.12%.
+* **Link:** [Indicino Employee Attrition Predictive Analysisl](https://github.com/beolawork-art/Indicino-Employee-Attrition-Predictive-Analysis)
