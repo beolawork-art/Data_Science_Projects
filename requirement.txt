@@ -1,8 +1,0 @@
-%%writefile requirement.text
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-
-pip install -r requirements.txt
