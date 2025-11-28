@@ -24,4 +24,4 @@ This repository serves as a central hub for all my data science work, notebooks,
 
 ### 5. HiCi - Africa Food Export
 Description: This project analyzes raw EU Food Safety Standard Agency data to determine key risk areas for HiCi Ltd.'s planned expansion into the European Union market, focusing specifically on border rejection events.
-Link: (https://github.com/beolawork-art/HiCi---Africa-Food-Export)
+# **Link:** (https://github.com/beolawork-art/HiCi---Africa-Food-Export)
