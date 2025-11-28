@@ -21,3 +21,7 @@ This repository serves as a central hub for all my data science work, notebooks,
 ### 4. Indicino Employee Attrition Predictive Analysis
 * **Description:** focuses on identifying the root causes of employee attrition at Indicino and building a predictive model to flag employees at high risk of leaving. The goal is to provide the HR Group Head with actionable, data-backed recommendations to reduce the overall turnover rate of 16.12%.
 * **Link:** [Indicino Employee Attrition Predictive Analysisl](https://github.com/beolawork-art/Indicino-Employee-Attrition-Predictive-Analysis)
+
+### 5. HiCi - Africa Food Export
+Description: This project analyzes raw EU Food Safety Standard Agency data to determine key risk areas for HiCi Ltd.'s planned expansion into the European Union market, focusing specifically on border rejection events.
+Link: (https://github.com/beolawork-art/HiCi---Africa-Food-Export)
