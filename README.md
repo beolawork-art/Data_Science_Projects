@@ -29,3 +29,7 @@ This repository serves as a central hub for all my data science work, notebooks,
 ### 6. Amazon Sales Forecast
 * Description: I used SQL, Python, and Power BI to discover Amazon's top-selling products, predict future sales, and identify which items are being returned most often.
 * **Link:** (https://github.com/beolawork-art/Amazon-Sales-Forecast)
+
+* ### 6. IMDB Movie Review
+* Description: I built a full-scale data project to analyze 50,000 movie reviews from IMDB. This project shows how people’s feelings (sentiment) can be tracked using data.
+* **Link:** (https://github.com/beolawork-art/IMDB-Movie-Review)
