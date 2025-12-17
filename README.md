@@ -28,4 +28,4 @@ This repository serves as a central hub for all my data science work, notebooks,
 
 ### 6. Amazon Sales Forecast
 * Description: I used SQL, Python, and Power BI to discover Amazon's top-selling products, predict future sales, and identify which items are being returned most often.
-* **Link:** ([https://github.com/beolawork-art/HiCi---Africa-Food-Export](https://github.com/beolawork-art/Amazon-Sales-Forecast))
+* **Link:** (https://github.com/beolawork-art/Amazon-Sales-Forecast)
